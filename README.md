@@ -6,11 +6,11 @@ Welcome! I'm **Antonela Tamagnini**, a **Fulbright Scholar and Computer Science 
 
 | Project | Description | Technologies | Repo Link |
 |---------|------------|--------------|-----------|
-| **Auction House** | A decentralized auction platform using React. | React, Typescript, AWS | [🔗 Repo](https://github.com/brianEtrials/team-bars-lisp-auction-house) |
-| **Data Visualization Project** | Interactive visualizations for various datasets. | D3.js, Python | [🔗 Repo](https://github.com/gbenderiya/DataViz_project) |
-| **Malaria Detection (Deep Learning)** | CNN-based malaria parasite detection in blood smears. | Python, TensorFlow | [🔗 Repo](https://github.com/atamagnini/malaria-detection-deep-learning) |
-| **Automated ECG Interpretation** | AI-driven ECG signal classification and analysis. | Python, Machine Learning | [🔗 Repo](https://github.com/atamagnini/advancing-automated-ecg-interpretation) |
-| **Quick Learning App** | An educational app for quick concept learning. | Kotlin | [🔗 Repo](https://github.com/atamagnini/quick-learning-app) |
+| [🔗 Auction House](https://github.com/brianEtrials/team-bars-lisp-auction-house) | A decentralized auction platform using React. | React, Typescript, AWS | [🔗 Repo](https://github.com/brianEtrials/team-bars-lisp-auction-house) |
+| **Interactive Data Visualizations** | Interactive visualizations to enhance literacy through data exploration on animal-related topics. | D3.js, HTML, JavaScript, Data Visualization, Web Development | [🔗 Repo](https://github.com/gbenderiya/DataViz_project) |
+| **Malaria Detection (Deep Learning)** | CNN-based model for detecting malaria parasites in blood smear images. | Python, TensorFlow, CNN, Deep Learning, Image Processing | [🔗 Repo](https://github.com/atamagnini/malaria-detection-deep-learning) |
+| **Automated ECG Interpretation** | AI-based ECG classification for automated heart disease detection. | Python, TensorFlow, Keras, Machine Learning, Signal Processing | [🔗 Repo](https://github.com/atamagnini/advancing-automated-ecg-interpretation) |
+| **Quick Learning App** | Android app for non-native English speakers, featuring OCR, TTS, and translation for real-time text recognition and accessibility. | Kotlin, Android, Java, OCR, TTS, Google Translate API | [🔗 Repo](https://github.com/atamagnini/quick-learning-app) |
 | **Access Patient Database** | A secure patient database management system. | SQL | [🔗 Repo](https://github.com/atamagnini/Access_patient_database) |
 | **D3.js Intro Visualization** | Introductory D3.js data visualizations. | D3.js | [🔗 Repo](https://github.com/atamagnini/CS573_DataVisualization_IntroToD3_2024_WPI) |
 | **7 Visualization Tools Comparison** | Comparing 7 different data visualization libraries. | D3.js, Tableau, Power BI | [🔗 Repo](https://github.com/atamagnini/CS573_DataVisualization_7VisualizationTools_2024_WPI) |
