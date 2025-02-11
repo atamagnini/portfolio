@@ -5,7 +5,7 @@ Welcome! I'm **Antonela Tamagnini**, a **Fulbright Scholar and Computer Science 
 ## 📌 Projects
 
 | Project | Description | Technologies |
-|---------|------------|--------------|-----------|
+|---------|------------|--------------|
 | [🔗 Auction House](https://github.com/brianEtrials/team-bars-lisp-auction-house) | Decentralized auction platform using React for seamless bidding and real-time updates. | React, Typescript, AWS |
 |  [🔗 Interactive Data Visualizations](https://github.com/gbenderiya/DataViz_project) | Interactive visualizations to enhance literacy through data exploration on animal-related topics. | D3.js, HTML, JavaScript, Data Visualization, Web Development |
 | **Malaria Detection (Deep Learning)** | CNN-based model for detecting malaria parasites in blood smear images. | Python, TensorFlow, CNN, Deep Learning, Image Processing | [🔗 Repo](https://github.com/atamagnini/malaria-detection-deep-learning) |
