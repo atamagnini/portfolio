@@ -6,7 +6,7 @@ Welcome! I'm **Antonela Tamagnini**, a **Fulbright Scholar and Computer Science 
 
 | Project | Description | Technologies | Repo Link |
 |---------|------------|--------------|-----------|
-| **Auction House** | A decentralized auction platform using Lisp. | React, Typescript, AWS | [🔗 Repo](https://github.com/brianEtrials/team-bars-lisp-auction-house) |
+| **Auction House** | A decentralized auction platform using React. | React, Typescript, AWS | [🔗 Repo](https://github.com/brianEtrials/team-bars-lisp-auction-house) |
 | **Data Visualization Project** | Interactive visualizations for various datasets. | D3.js, Python | [🔗 Repo](https://github.com/gbenderiya/DataViz_project) |
 | **Malaria Detection (Deep Learning)** | CNN-based malaria parasite detection in blood smears. | Python, TensorFlow | [🔗 Repo](https://github.com/atamagnini/malaria-detection-deep-learning) |
 | **Automated ECG Interpretation** | AI-driven ECG signal classification and analysis. | Python, Machine Learning | [🔗 Repo](https://github.com/atamagnini/advancing-automated-ecg-interpretation) |
