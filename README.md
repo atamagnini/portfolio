@@ -6,7 +6,8 @@ Welcome! I'm **Antonela Tamagnini**, a **Fulbright Scholar and Computer Science 
 
 | Project | Description | Technologies |
 |---------|------------|--------------|
-| [🔗 Auction House](https://github.com/brianEtrials/team-bars-lisp-auction-house) | Decentralized auction platform using React for seamless bidding and real-time updates. Part of Design of Software Systems course during my graduate studies. | React, Typescript, AWS, Full Stack, Serverless Applications |
+| [🔗 AgroTrace 360](https://github.com/atamagnini/AgroTrace360) | Web-based platform to help small and medium-sized agricultural producers manage fields, crops, treatments, and generate QR-code-based traceability reports. | React, TypeScript, Node.js, AWS (S3, Lambda, API Gateway, RDS), MySQL, Google Maps API, Cypress |
+| [🔗 Auction House](https://github.com/brianEtrials/team-bars-lisp-auction-house) | Decentralized auction platform using React for seamless bidding and real-time updates. | React, Typescript, AWS, Full Stack, Serverless Applications |
 | [🔗 Interactive Data Visualizations](https://github.com/gbenderiya/DataViz_project) | Interactive visualizations to enhance literacy through data exploration on animal-related topics. | D3.js, HTML, JavaScript, Data Visualization, Web Development |
 | [🔗 Malaria Detection (Deep Learning)](https://github.com/atamagnini/malaria-detection-deep-learning) | CNN-based model for detecting malaria parasites in blood smear images. | Python, TensorFlow, CNN, Deep Learning, Image Processing |
 | [🔗 Automated ECG Interpretation](https://github.com/atamagnini/advancing-automated-ecg-interpretation) | AI-based ECG classification for automated heart disease detection. | Python, TensorFlow, Keras, Machine Learning, Signal Processing | 
